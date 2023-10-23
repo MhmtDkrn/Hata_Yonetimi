@@ -1,0 +1,14 @@
+C:\Dersler\C#\Practice\Hata-yonetimi\bin\Debug\net7.0\Hata-yonetimi.exe
+C:\Dersler\C#\Practice\Hata-yonetimi\bin\Debug\net7.0\Hata-yonetimi.deps.json
+C:\Dersler\C#\Practice\Hata-yonetimi\bin\Debug\net7.0\Hata-yonetimi.runtimeconfig.json
+C:\Dersler\C#\Practice\Hata-yonetimi\bin\Debug\net7.0\Hata-yonetimi.dll
+C:\Dersler\C#\Practice\Hata-yonetimi\bin\Debug\net7.0\Hata-yonetimi.pdb
+C:\Dersler\C#\Practice\Hata-yonetimi\obj\Debug\net7.0\Hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dersler\C#\Practice\Hata-yonetimi\obj\Debug\net7.0\Hata-yonetimi.AssemblyInfoInputs.cache
+C:\Dersler\C#\Practice\Hata-yonetimi\obj\Debug\net7.0\Hata-yonetimi.AssemblyInfo.cs
+C:\Dersler\C#\Practice\Hata-yonetimi\obj\Debug\net7.0\Hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Dersler\C#\Practice\Hata-yonetimi\obj\Debug\net7.0\Hata-yonetimi.dll
+C:\Dersler\C#\Practice\Hata-yonetimi\obj\Debug\net7.0\refint\Hata-yonetimi.dll
+C:\Dersler\C#\Practice\Hata-yonetimi\obj\Debug\net7.0\Hata-yonetimi.pdb
+C:\Dersler\C#\Practice\Hata-yonetimi\obj\Debug\net7.0\Hata-yonetimi.genruntimeconfig.cache
+C:\Dersler\C#\Practice\Hata-yonetimi\obj\Debug\net7.0\ref\Hata-yonetimi.dll
